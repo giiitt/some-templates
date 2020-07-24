@@ -1,0 +1,2 @@
+E:\git-projects\templates\ACM-templates\ACM-templates\Debug\ACM-templates.exe
+E:\git-projects\templates\ACM-templates\ACM-templates\Debug\ACM-templates.pdb
