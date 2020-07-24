@@ -1,0 +1,3 @@
+ACM-templates/ACM-templates/
+!ACM-templates/ACM-templates/*.cpp
+!ACM-templates/ACM-templates/*.h
