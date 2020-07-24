@@ -33,9 +33,9 @@ public:
 };
 
 
-int main() {
-    powermod test;
-    test.show_result();
-    return 0;
-}
+//int main() {
+//    powermod test;
+//    test.show_result();
+//    return 0;
+//}
 
