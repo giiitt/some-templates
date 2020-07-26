@@ -4,11 +4,7 @@ Date		: 7/24/2020
 Description	:
 */
 
-#include <iostream>
-#include <cstdio>
-
-using std::cout;
-using std::endl;
+#include "my_header.h"
 
 typedef long long LL;
 

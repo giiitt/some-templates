@@ -28,7 +28,7 @@ public:
 	void show_result() {
 		int max_search = 20;
 		for (int i = 0; i < max_search; i++) {
-			std::cout << sieve(i) << " prime numbers before " << i << std::endl;
+			cout << sieve(i) << " prime numbers before " << i << endl;
 		}
 	}
 };

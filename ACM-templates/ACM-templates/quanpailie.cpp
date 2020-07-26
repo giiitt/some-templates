@@ -26,15 +26,15 @@ public:
     }
 };
 
-int main() {
-    qpl test;
-    int num = 5;
-    int start = 0;
-    int* list = new int[num];
-    for (int i = 0; i < num; i++) {
-        list[i] = i;
-    }
-    test.Pern(list, start, num);
-    delete[] list;
-    return 0;
-}
+//int main() {
+//    qpl test;
+//    int num = 5;
+//    int start = 0;
+//    int* list = new int[num];
+//    for (int i = 0; i < num; i++) {
+//        list[i] = i;
+//    }
+//    test.Pern(list, start, num);
+//    delete[] list;
+//    return 0;
+//}

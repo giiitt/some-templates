@@ -8,9 +8,6 @@ Description	:
 
 typedef long long LL;   //  视数据大小的情况而定
 
-using std::cout;
-using std::endl;
-
 class powermod {
 
 public:
@@ -27,7 +24,7 @@ public:
     }
 
     void show_result() {
-        std::cout << powerMod(2, 4, 7)<<endl;
+        cout << powerMod(2, 4, 7)<<endl;
     }
 
 };

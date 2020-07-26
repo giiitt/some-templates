@@ -13,7 +13,7 @@
 #include <algorithm>
 #include <functional>
 
-//using namespace std;
+using namespace std;
 
 const int maxn = 110;
 const int INF = 0x3f3f3f3f;
